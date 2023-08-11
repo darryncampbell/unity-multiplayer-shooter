@@ -1,6 +1,6 @@
 PubNub Unity Multiplayer Shooter Game
 ====================================
-Welcome to PubNub's Unity Game!
+Welcome to PubNub's Unity Game!..
 
 <p align="middle">
   <img src="/Media/in-game.png"/>
